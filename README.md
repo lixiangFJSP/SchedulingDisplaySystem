@@ -6,7 +6,7 @@
 ```
 git clone git@github.com:huxiaocheng/vue-gn-components.git
 
-npm i
+npm install --no-optional --verbose
 
 npm run serve
 ```
